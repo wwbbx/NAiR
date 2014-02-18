@@ -1,0 +1,4 @@
+.coffee
+.bat
+exclusivePublish.txt
+\node_modules\
