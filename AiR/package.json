@@ -1,0 +1,19 @@
+{
+  "name": "AiR",
+  "version": "0.0.1",
+  "description": "Awesome iReport Web Site using Angular, RequireJS",
+  "repository": {
+    "type": "git",
+    "url": "http://polarbear.chn.agilent.com:8800"
+  },
+  "keywords": [
+    "AiR",
+    "iReport"
+  ],
+  "author": "Nixin Wang",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies":{
+    "express":"latest"
+  }
+}
