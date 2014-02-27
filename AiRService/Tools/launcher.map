@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "launcher.js",
+  "sourceRoot": "",
+  "sources": [
+    "launcher.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;CAAA,KAAA,CAAA;;CAAA,CAAA,CAAU,IAAV,WAAU;;CAAV,CACA,EAAA,GAAA,kBAAA,+BAAA;CADA"
+}
