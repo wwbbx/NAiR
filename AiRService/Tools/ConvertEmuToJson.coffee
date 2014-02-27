@@ -38,6 +38,9 @@ module.exports.IsValidEmuTestCardDir = (emuDirName)->
 	return true
 
 module.exports.ConvertEmuTestCard = (emuDirName)->
+  # read dsheet.tpe
+
+  # read tcard.tpe
 	return "{name:'this is testing'}"
 
 module.exports.GetTempFileName = ()->
